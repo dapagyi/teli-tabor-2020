@@ -37,7 +37,7 @@ export class Page extends Component<PageProps, {}> {
         </div>
 
         <div className="footer">
-          <p>Téli tábor 2020. február 13-16.</p>
+          <p>Téli tábor - 2020. február 13-16.</p>
         </div>
       </div>
     );
