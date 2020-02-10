@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/logigrafika/static/css/main.16d0367a.chunk.css",
-    "main.js": "/logigrafika/static/js/main.093b28b5.chunk.js",
-    "main.js.map": "/logigrafika/static/js/main.093b28b5.chunk.js.map",
-    "runtime-main.js": "/logigrafika/static/js/runtime-main.5fd55e16.js",
-    "runtime-main.js.map": "/logigrafika/static/js/runtime-main.5fd55e16.js.map",
-    "static/css/2.7325e055.chunk.css": "/logigrafika/static/css/2.7325e055.chunk.css",
-    "static/js/2.d817fb49.chunk.js": "/logigrafika/static/js/2.d817fb49.chunk.js",
-    "static/js/2.d817fb49.chunk.js.map": "/logigrafika/static/js/2.d817fb49.chunk.js.map",
-    "index.html": "/logigrafika/index.html",
-    "precache-manifest.2a9ce6d07579e5389d7a1dca1c892449.js": "/logigrafika/precache-manifest.2a9ce6d07579e5389d7a1dca1c892449.js",
-    "service-worker.js": "/logigrafika/service-worker.js",
-    "static/css/2.7325e055.chunk.css.map": "/logigrafika/static/css/2.7325e055.chunk.css.map",
-    "static/css/main.16d0367a.chunk.css.map": "/logigrafika/static/css/main.16d0367a.chunk.css.map",
-    "static/js/2.d817fb49.chunk.js.LICENSE": "/logigrafika/static/js/2.d817fb49.chunk.js.LICENSE"
+    "main.css": "/teli-tabor-2020/static/css/main.16d0367a.chunk.css",
+    "main.js": "/teli-tabor-2020/static/js/main.4f6f9554.chunk.js",
+    "main.js.map": "/teli-tabor-2020/static/js/main.4f6f9554.chunk.js.map",
+    "runtime-main.js": "/teli-tabor-2020/static/js/runtime-main.2196ef42.js",
+    "runtime-main.js.map": "/teli-tabor-2020/static/js/runtime-main.2196ef42.js.map",
+    "static/css/2.7325e055.chunk.css": "/teli-tabor-2020/static/css/2.7325e055.chunk.css",
+    "static/js/2.94bdde49.chunk.js": "/teli-tabor-2020/static/js/2.94bdde49.chunk.js",
+    "static/js/2.94bdde49.chunk.js.map": "/teli-tabor-2020/static/js/2.94bdde49.chunk.js.map",
+    "index.html": "/teli-tabor-2020/index.html",
+    "precache-manifest.5c70c38e253655b5d59b64a28b2e416f.js": "/teli-tabor-2020/precache-manifest.5c70c38e253655b5d59b64a28b2e416f.js",
+    "service-worker.js": "/teli-tabor-2020/service-worker.js",
+    "static/css/2.7325e055.chunk.css.map": "/teli-tabor-2020/static/css/2.7325e055.chunk.css.map",
+    "static/css/main.16d0367a.chunk.css.map": "/teli-tabor-2020/static/css/main.16d0367a.chunk.css.map",
+    "static/js/2.94bdde49.chunk.js.LICENSE": "/teli-tabor-2020/static/js/2.94bdde49.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.5fd55e16.js",
+    "static/js/runtime-main.2196ef42.js",
     "static/css/2.7325e055.chunk.css",
-    "static/js/2.d817fb49.chunk.js",
+    "static/js/2.94bdde49.chunk.js",
     "static/css/main.16d0367a.chunk.css",
-    "static/js/main.093b28b5.chunk.js"
+    "static/js/main.4f6f9554.chunk.js"
   ]
 }
