@@ -1,0 +1,22 @@
+body {
+  background: url(/img/liliomos_hatter_trendizold.png) no-repeat center center; 
+  background-size: cover;
+}
+
+.App {
+  padding: 0;
+  margin: 0;
+}
+
+.AppContent {
+  text-align: center;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+@font-face {
+  font-family: 'Trajan Pro Regular';
+  font-style: normal;
+  font-weight: normal;
+  src: url('/font/TrajanPro-Regular.woff') format('woff');
+}
