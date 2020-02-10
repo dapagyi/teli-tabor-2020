@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/logigrafika/static/css/main.16d0367a.chunk.css",
+    "main.js": "/logigrafika/static/js/main.093b28b5.chunk.js",
+    "main.js.map": "/logigrafika/static/js/main.093b28b5.chunk.js.map",
+    "runtime-main.js": "/logigrafika/static/js/runtime-main.5fd55e16.js",
+    "runtime-main.js.map": "/logigrafika/static/js/runtime-main.5fd55e16.js.map",
+    "static/css/2.7325e055.chunk.css": "/logigrafika/static/css/2.7325e055.chunk.css",
+    "static/js/2.d817fb49.chunk.js": "/logigrafika/static/js/2.d817fb49.chunk.js",
+    "static/js/2.d817fb49.chunk.js.map": "/logigrafika/static/js/2.d817fb49.chunk.js.map",
+    "index.html": "/logigrafika/index.html",
+    "precache-manifest.2a9ce6d07579e5389d7a1dca1c892449.js": "/logigrafika/precache-manifest.2a9ce6d07579e5389d7a1dca1c892449.js",
+    "service-worker.js": "/logigrafika/service-worker.js",
+    "static/css/2.7325e055.chunk.css.map": "/logigrafika/static/css/2.7325e055.chunk.css.map",
+    "static/css/main.16d0367a.chunk.css.map": "/logigrafika/static/css/main.16d0367a.chunk.css.map",
+    "static/js/2.d817fb49.chunk.js.LICENSE": "/logigrafika/static/js/2.d817fb49.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5fd55e16.js",
+    "static/css/2.7325e055.chunk.css",
+    "static/js/2.d817fb49.chunk.js",
+    "static/css/main.16d0367a.chunk.css",
+    "static/js/main.093b28b5.chunk.js"
+  ]
+}
