@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/teli-tabor-2020/static/css/main.26a302a8.chunk.css",
-    "main.js": "/teli-tabor-2020/static/js/main.2cbaf8d3.chunk.js",
-    "main.js.map": "/teli-tabor-2020/static/js/main.2cbaf8d3.chunk.js.map",
+    "main.js": "/teli-tabor-2020/static/js/main.20d0feea.chunk.js",
+    "main.js.map": "/teli-tabor-2020/static/js/main.20d0feea.chunk.js.map",
     "runtime-main.js": "/teli-tabor-2020/static/js/runtime-main.2196ef42.js",
     "runtime-main.js.map": "/teli-tabor-2020/static/js/runtime-main.2196ef42.js.map",
     "static/css/2.7325e055.chunk.css": "/teli-tabor-2020/static/css/2.7325e055.chunk.css",
     "static/js/2.3798955e.chunk.js": "/teli-tabor-2020/static/js/2.3798955e.chunk.js",
     "static/js/2.3798955e.chunk.js.map": "/teli-tabor-2020/static/js/2.3798955e.chunk.js.map",
     "index.html": "/teli-tabor-2020/index.html",
-    "precache-manifest.78eb100003fac32f2541643fe90d1554.js": "/teli-tabor-2020/precache-manifest.78eb100003fac32f2541643fe90d1554.js",
+    "precache-manifest.c2c74efdcff086a9f2c13556f71516b3.js": "/teli-tabor-2020/precache-manifest.c2c74efdcff086a9f2c13556f71516b3.js",
     "service-worker.js": "/teli-tabor-2020/service-worker.js",
     "static/css/2.7325e055.chunk.css.map": "/teli-tabor-2020/static/css/2.7325e055.chunk.css.map",
     "static/css/main.26a302a8.chunk.css.map": "/teli-tabor-2020/static/css/main.26a302a8.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.7325e055.chunk.css",
     "static/js/2.3798955e.chunk.js",
     "static/css/main.26a302a8.chunk.css",
-    "static/js/main.2cbaf8d3.chunk.js"
+    "static/js/main.20d0feea.chunk.js"
   ]
 }
