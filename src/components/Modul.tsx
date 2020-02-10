@@ -35,6 +35,10 @@ export class Page extends Component<PageProps, {}> {
             return <p>{line}</p>;
           })}
         </div>
+
+        <div className="footer">
+          <p>Téli tábor 2020. február 13-16.</p>
+        </div>
       </div>
     );
   }
