@@ -1,7 +1,7 @@
 import './App.css';
 
 import React, { Component } from 'react';
-import { BrowserRouter as HashRouter, Route, Switch } from 'react-router-dom';
+import { BrowserRouter as Router, HashRouter, Route, Switch } from 'react-router-dom';
 
 import { Page } from './components/Modul';
 import { lelki_modulok } from './data';
@@ -33,8 +33,8 @@ class App extends Component<{}, {}> {
                     </>
                   );
                 })}
-                {/* <Route>
-                  <h1 className="PageHeader">Hello World!</h1>
+                {/* <Route path="/">
+                  <Page title="Mit jelent számodra a Barátság?" />
                 </Route> */}
               </Switch>
             </div>
