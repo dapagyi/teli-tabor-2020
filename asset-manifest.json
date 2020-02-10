@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/teli-tabor-2020/static/css/main.26a302a8.chunk.css",
-    "main.js": "/teli-tabor-2020/static/js/main.f7f75185.chunk.js",
-    "main.js.map": "/teli-tabor-2020/static/js/main.f7f75185.chunk.js.map",
+    "main.js": "/teli-tabor-2020/static/js/main.0fb575da.chunk.js",
+    "main.js.map": "/teli-tabor-2020/static/js/main.0fb575da.chunk.js.map",
     "runtime-main.js": "/teli-tabor-2020/static/js/runtime-main.38640765.js",
     "runtime-main.js.map": "/teli-tabor-2020/static/js/runtime-main.38640765.js.map",
     "static/css/2.7325e055.chunk.css": "/teli-tabor-2020/static/css/2.7325e055.chunk.css",
-    "static/js/2.92c3ca31.chunk.js": "/teli-tabor-2020/static/js/2.92c3ca31.chunk.js",
-    "static/js/2.92c3ca31.chunk.js.map": "/teli-tabor-2020/static/js/2.92c3ca31.chunk.js.map",
+    "static/js/2.bc2006f6.chunk.js": "/teli-tabor-2020/static/js/2.bc2006f6.chunk.js",
+    "static/js/2.bc2006f6.chunk.js.map": "/teli-tabor-2020/static/js/2.bc2006f6.chunk.js.map",
     "index.html": "/teli-tabor-2020/index.html",
-    "precache-manifest.7e67d66427b8a131a4a53f8d2604b801.js": "/teli-tabor-2020/precache-manifest.7e67d66427b8a131a4a53f8d2604b801.js",
+    "precache-manifest.00807f30b6081cd6069e4178f59fcc3d.js": "/teli-tabor-2020/precache-manifest.00807f30b6081cd6069e4178f59fcc3d.js",
     "service-worker.js": "/teli-tabor-2020/service-worker.js",
     "static/css/2.7325e055.chunk.css.map": "/teli-tabor-2020/static/css/2.7325e055.chunk.css.map",
     "static/css/main.26a302a8.chunk.css.map": "/teli-tabor-2020/static/css/main.26a302a8.chunk.css.map",
-    "static/js/2.92c3ca31.chunk.js.LICENSE": "/teli-tabor-2020/static/js/2.92c3ca31.chunk.js.LICENSE",
+    "static/js/2.bc2006f6.chunk.js.LICENSE": "/teli-tabor-2020/static/js/2.bc2006f6.chunk.js.LICENSE",
     "static/media/App.css": "/teli-tabor-2020/static/media/liliomos_hatter_trendizold.e9e50633.png"
   },
   "entrypoints": [
     "static/js/runtime-main.38640765.js",
     "static/css/2.7325e055.chunk.css",
-    "static/js/2.92c3ca31.chunk.js",
+    "static/js/2.bc2006f6.chunk.js",
     "static/css/main.26a302a8.chunk.css",
-    "static/js/main.f7f75185.chunk.js"
+    "static/js/main.0fb575da.chunk.js"
   ]
 }
