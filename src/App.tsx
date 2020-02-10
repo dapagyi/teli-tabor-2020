@@ -39,7 +39,7 @@ class App extends Component<{}, {}> {
 
         <div className="AppContent">
           {/* <h1>Téli tábor 2020</h1> */}
-          <Router>
+          <Router basename={process.env.PUBLIC_URL}>
             <div>
               <Switch>
                 {/* <Route path="/users">
