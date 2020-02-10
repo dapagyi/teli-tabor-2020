@@ -16,7 +16,7 @@ export class Page extends Component<PageProps, {}> {
       <div>
         <div className="Banner">
           <div className="BannerContent">
-            <img src="img/nyakk_zold2.png" alt="asd"></img>
+            <img src="./img/nyakk_zold2.png" alt="asd"></img>
           </div>
         </div>
 
@@ -27,7 +27,7 @@ export class Page extends Component<PageProps, {}> {
         <AudioPlayer
           style={{ maxWidth: '450px', margin: 'auto' }}
           // autoPlay
-          src={`/sound/${this.props.sound}`}
+          src={`./sound/${this.props.sound}`}
         />
 
         <div className="description">
