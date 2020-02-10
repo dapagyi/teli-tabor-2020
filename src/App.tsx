@@ -1,7 +1,7 @@
 import './App.css';
 
 import React, { Component } from 'react';
-import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
+import { BrowserRouter as Router, Route, Switch, HashRouter } from 'react-router-dom';
 
 import { Page } from './components/Modul';
 
@@ -39,7 +39,7 @@ class App extends Component<{}, {}> {
 
         <div className="AppContent">
           {/* <h1>Téli tábor 2020</h1> */}
-          <Router basename={process.env.PUBLIC_URL}>
+          <HashRouter basename='/'>
             <div>
               <Switch>
                 {/* <Route path="/users">
@@ -63,7 +63,7 @@ class App extends Component<{}, {}> {
                 </Route> */}
               </Switch>
             </div>
-          </Router>
+          </HashRouter>
         </div>
       </div>
     );
