@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/teli-tabor-2020/precache-manifest.32108ae566782ed2678e23cf9d4fb760.js"
+  "/teli-tabor-2020/precache-manifest.c870fb59d89718c47e13a146a69327bc.js"
 );
 
 self.addEventListener('message', (event) => {

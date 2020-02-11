@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3437db37d9a8fba97f4f26f433b2f3f1",
+    "revision": "e2e5656010cbef28083ceeca3e43c65e",
     "url": "/teli-tabor-2020/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/teli-tabor-2020/static/css/2.7325e055.chunk.css"
   },
   {
-    "revision": "5abf450d698018b1c5af",
-    "url": "/teli-tabor-2020/static/css/main.62ac4f38.chunk.css"
+    "revision": "adca2db75fe27b8c376b",
+    "url": "/teli-tabor-2020/static/css/main.50b0258a.chunk.css"
   },
   {
     "revision": "e28b93784cd617e63357",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/teli-tabor-2020/static/js/2.bc2006f6.chunk.js.LICENSE"
   },
   {
-    "revision": "5abf450d698018b1c5af",
+    "revision": "adca2db75fe27b8c376b",
     "url": "/teli-tabor-2020/static/js/main.0fb575da.chunk.js"
   },
   {
