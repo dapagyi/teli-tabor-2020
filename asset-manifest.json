@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/teli-tabor-2020/static/css/main.20dcb81a.chunk.css",
+    "main.css": "/teli-tabor-2020/static/css/main.334b65c7.chunk.css",
     "main.js": "/teli-tabor-2020/static/js/main.0fb575da.chunk.js",
     "main.js.map": "/teli-tabor-2020/static/js/main.0fb575da.chunk.js.map",
     "runtime-main.js": "/teli-tabor-2020/static/js/runtime-main.38640765.js",
@@ -9,10 +9,10 @@
     "static/js/2.bc2006f6.chunk.js": "/teli-tabor-2020/static/js/2.bc2006f6.chunk.js",
     "static/js/2.bc2006f6.chunk.js.map": "/teli-tabor-2020/static/js/2.bc2006f6.chunk.js.map",
     "index.html": "/teli-tabor-2020/index.html",
-    "precache-manifest.cf2a698ec8d8c8a55889d8a757d51f4d.js": "/teli-tabor-2020/precache-manifest.cf2a698ec8d8c8a55889d8a757d51f4d.js",
+    "precache-manifest.b1e7760f91fd910b1f1c35a621977160.js": "/teli-tabor-2020/precache-manifest.b1e7760f91fd910b1f1c35a621977160.js",
     "service-worker.js": "/teli-tabor-2020/service-worker.js",
     "static/css/2.7325e055.chunk.css.map": "/teli-tabor-2020/static/css/2.7325e055.chunk.css.map",
-    "static/css/main.20dcb81a.chunk.css.map": "/teli-tabor-2020/static/css/main.20dcb81a.chunk.css.map",
+    "static/css/main.334b65c7.chunk.css.map": "/teli-tabor-2020/static/css/main.334b65c7.chunk.css.map",
     "static/js/2.bc2006f6.chunk.js.LICENSE": "/teli-tabor-2020/static/js/2.bc2006f6.chunk.js.LICENSE",
     "static/media/App.css": "/teli-tabor-2020/static/media/liliomos_hatter_trendizold.e9e50633.png"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.38640765.js",
     "static/css/2.7325e055.chunk.css",
     "static/js/2.bc2006f6.chunk.js",
-    "static/css/main.20dcb81a.chunk.css",
+    "static/css/main.334b65c7.chunk.css",
     "static/js/main.0fb575da.chunk.js"
   ]
 }
