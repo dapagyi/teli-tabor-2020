@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0c6f8995c0a08c292301280193c94c30",
+    "revision": "e8285c1d1905fa7afa895d351d80c7f7",
     "url": "/teli-tabor-2020/index.html"
   },
   {
-    "revision": "a5c3fb5f09eed156fe39",
+    "revision": "a8a3cc054e752267fbf6",
     "url": "/teli-tabor-2020/static/css/2.7325e055.chunk.css"
   },
   {
-    "revision": "b420fb0c38077ee83ac6",
+    "revision": "739b6da005b58572d9b6",
     "url": "/teli-tabor-2020/static/css/main.7c5cee92.chunk.css"
   },
   {
-    "revision": "a5c3fb5f09eed156fe39",
-    "url": "/teli-tabor-2020/static/js/2.23bd5b05.chunk.js"
+    "revision": "a8a3cc054e752267fbf6",
+    "url": "/teli-tabor-2020/static/js/2.4bbe8a65.chunk.js"
   },
   {
     "revision": "e928fe768baa9832b5bc57eae021f30c",
-    "url": "/teli-tabor-2020/static/js/2.23bd5b05.chunk.js.LICENSE"
+    "url": "/teli-tabor-2020/static/js/2.4bbe8a65.chunk.js.LICENSE"
   },
   {
-    "revision": "b420fb0c38077ee83ac6",
-    "url": "/teli-tabor-2020/static/js/main.d6f1a8ed.chunk.js"
+    "revision": "739b6da005b58572d9b6",
+    "url": "/teli-tabor-2020/static/js/main.92f0dcc4.chunk.js"
   },
   {
     "revision": "f6bfd784fd595e232097",
