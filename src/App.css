@@ -19,5 +19,5 @@ body {
   font-family: 'Trajan Pro Regular';
   font-style: normal;
   font-weight: normal;
-  src: url('./font/TrajanPro-Regular.woff') format('woff');
+  src: url(/font/TrajanPro-Regular.woff) format(woff);
 }
