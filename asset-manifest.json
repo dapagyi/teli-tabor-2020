@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/teli-tabor-2020/static/css/main.7c5cee92.chunk.css",
-    "main.js": "/teli-tabor-2020/static/js/main.548c3e5c.chunk.js",
-    "main.js.map": "/teli-tabor-2020/static/js/main.548c3e5c.chunk.js.map",
+    "main.css": "/teli-tabor-2020/static/css/main.d17d8696.chunk.css",
+    "main.js": "/teli-tabor-2020/static/js/main.abaabd40.chunk.js",
+    "main.js.map": "/teli-tabor-2020/static/js/main.abaabd40.chunk.js.map",
     "runtime-main.js": "/teli-tabor-2020/static/js/runtime-main.38640765.js",
     "runtime-main.js.map": "/teli-tabor-2020/static/js/runtime-main.38640765.js.map",
     "static/css/2.7325e055.chunk.css": "/teli-tabor-2020/static/css/2.7325e055.chunk.css",
-    "static/js/2.8a8a1d78.chunk.js": "/teli-tabor-2020/static/js/2.8a8a1d78.chunk.js",
-    "static/js/2.8a8a1d78.chunk.js.map": "/teli-tabor-2020/static/js/2.8a8a1d78.chunk.js.map",
+    "static/js/2.8864d8d8.chunk.js": "/teli-tabor-2020/static/js/2.8864d8d8.chunk.js",
+    "static/js/2.8864d8d8.chunk.js.map": "/teli-tabor-2020/static/js/2.8864d8d8.chunk.js.map",
     "index.html": "/teli-tabor-2020/index.html",
-    "precache-manifest.ff04247148d6ca51c2184a64c3bfb177.js": "/teli-tabor-2020/precache-manifest.ff04247148d6ca51c2184a64c3bfb177.js",
+    "precache-manifest.f9e5f2f864221509e59a05e297eb26af.js": "/teli-tabor-2020/precache-manifest.f9e5f2f864221509e59a05e297eb26af.js",
     "service-worker.js": "/teli-tabor-2020/service-worker.js",
     "static/css/2.7325e055.chunk.css.map": "/teli-tabor-2020/static/css/2.7325e055.chunk.css.map",
-    "static/css/main.7c5cee92.chunk.css.map": "/teli-tabor-2020/static/css/main.7c5cee92.chunk.css.map",
-    "static/js/2.8a8a1d78.chunk.js.LICENSE": "/teli-tabor-2020/static/js/2.8a8a1d78.chunk.js.LICENSE",
+    "static/css/main.d17d8696.chunk.css.map": "/teli-tabor-2020/static/css/main.d17d8696.chunk.css.map",
+    "static/js/2.8864d8d8.chunk.js.LICENSE": "/teli-tabor-2020/static/js/2.8864d8d8.chunk.js.LICENSE",
     "static/media/App.css": "/teli-tabor-2020/static/media/liliomos_hatter_trendizold.e9e50633.png"
   },
   "entrypoints": [
     "static/js/runtime-main.38640765.js",
     "static/css/2.7325e055.chunk.css",
-    "static/js/2.8a8a1d78.chunk.js",
-    "static/css/main.7c5cee92.chunk.css",
-    "static/js/main.548c3e5c.chunk.js"
+    "static/js/2.8864d8d8.chunk.js",
+    "static/css/main.d17d8696.chunk.css",
+    "static/js/main.abaabd40.chunk.js"
   ]
 }
