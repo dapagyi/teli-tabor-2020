@@ -4,6 +4,14 @@
 
 .description {
   padding-top: 24px;
+  text-align: justify;
+  max-width: 450px;
+  margin: auto auto;
+}
+
+.player {
+  max-width: 450px;
+  margin: auto;
 }
 
 .Banner {

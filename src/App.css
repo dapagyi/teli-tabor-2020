@@ -21,3 +21,8 @@ body {
   font-weight: normal;
   src: url('./font/TrajanPro-Regular.woff') format('woff');
 }
+
+.lista {
+  color: white;
+  text-decoration: none; /* no underline */
+}

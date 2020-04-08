@@ -14,18 +14,18 @@ export class Page extends Component<PageProps, {}> {
   render() {
     return (
       <div>
-        <div className="Banner">
+        {/* <div className="Banner">
           <div className="BannerContent">
             <img src="./img/nyakk_zold2.png" alt="asd"></img>
           </div>
-        </div>
+        </div> */}
 
         <h1 className="PageHeader"> {this.props.title} </h1>
 
         <br />
 
         <AudioPlayer
-          style={{ maxWidth: '450px', margin: 'auto' }}
+          className="player"
           // autoPlay
           src={`./sound/${this.props.sound}`}
         />
@@ -36,9 +36,9 @@ export class Page extends Component<PageProps, {}> {
           })}
         </div>
 
-        <div className="footer">
+        {/* <div className="footer">
           <p>Téli tábor - 2020. február 13-16.</p>
-        </div>
+        </div> */}
       </div>
     );
   }
